@@ -1,4 +1,5 @@
-# edu_java
+## Философия Java
+
 По книге Брюса Эккеля - Философия Java
 
 javac ./chapter2/*.java
